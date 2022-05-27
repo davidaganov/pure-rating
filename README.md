@@ -3,6 +3,7 @@
 ## Examples
 
 - [GitHub](https://github.com/davidaganov21/pure-accordion)
+- [CodeSandbox](https://codesandbox.io/s/pure-rating-m6x6il)
 
 ## Install
 
