@@ -1,0 +1,31 @@
+.rating-select {
+  color: var(--star-empty);
+}
+
+.rating-select__list {
+  height: 100%;
+}
+.rating-select__list:hover .star {
+  color: var(--star-color);
+}
+
+.rating-select .star {
+  color: inherit;
+  cursor: pointer;
+  margin: 0;
+}
+.rating-select .star__icon path {
+  margin-top: 10px;
+}
+.rating-select .star:hover ~ .star {
+  color: var(--star-hover);
+}
+.rating-select .star:hover ~ .star:not(.star--active) {
+  color: inherit;
+}
+.rating-select .star:focus-visible {
+  color: var(--star-focus);
+}
+.rating-select .star--active {
+  color: var(--star-color);
+}
