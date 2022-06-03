@@ -2,7 +2,8 @@
 
 ## Examples
 
-- [GitHub](https://github.com/davidaganov21/pure-accordion)
+- [GitHub](https://github.com/davidaganov21/pure-rating)
+- [CodeSandbox](https://codesandbox.io/s/pure-rating-y5f1c7)
 
 ## Install
 
