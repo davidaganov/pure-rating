@@ -3,7 +3,7 @@
 ## Examples
 
 - [GitHub](https://github.com/davidaganov21/pure-rating)
-- [CodeSandbox](https://codesandbox.io/s/pure-rating-y5f1c7)
+- [Demo](https://aganov.dev/pure-rating)
 
 ## Install
 
