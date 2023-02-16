@@ -49,4 +49,4 @@ By passing your class to the name parameter, you will set custom classes for the
 
 ## Credits
 
-Author: [David Aganov](https://github.com/davidaganov21)
+Author: [David Aganov](https://github.com/davidaganov)
