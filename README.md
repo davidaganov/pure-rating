@@ -2,7 +2,7 @@
 
 ## Examples
 
-- [GitHub](https://github.com/davidaganov21/pure-rating)
+- [GitHub](https://github.com/davidaganov/pure-rating)
 - [Demo](https://aganov.dev/pure-rating)
 
 ## Install
@@ -10,7 +10,7 @@
 #### NPM / Yarn
 
 ```
-git clone https://github.com/davidaganov21/pure-rating
+git clone https://github.com/davidaganov/pure-rating
 cd pure-rating
 npm install
 ```
